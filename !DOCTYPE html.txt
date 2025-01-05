@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>合金材料信息</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>合金材料信息</h1>
+    <p>以下是一些常见的合金材料及其特性、应用和相关信息。</p>
+
+    <h2>Inconel合金</h2>
+    <p>Inconel合金是一种镍铬超级合金，具有出色的耐腐蚀性、耐氧化性和高温强度。它广泛应用于航空航天、海水应用等领域。</p>
+    <ul>
+        <li><a href="https://www.ferralloy.com/inconel-alloys/" target="_blank">Inconel合金详细信息</a></li>
+    </ul>
+
+    <h2>Adamantium合金</h2>
+    <p>Adamantium是由金属病理学家马丁·路德·金博士创造的一种类似自由女神像盾牌的硬塑料合金。尽管不含塑料，但其分子结构非常相似且几乎同样耐用。</p>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Adamantium" target="_blank">Adamantium合金详细信息</a></li>
+    </ul>
+
+    <h2>高温合金</h2>
+    <p>高温合金和金属间化合物高温材料在高温环境下具有优异的性能，广泛应用于航空航天、能源等领域。</p>
+    <ul>
+        <li><a href="https://www.gb688.cn/standard/gb14992-2005.html" target="_blank">GB/T 14992-2005标准</a></li>
+    </ul>
+
+    <h2>镁合金</h2>
+    <p>镁合金是一种轻质合金，具有良好的减重效果，广泛应用于汽车、航空航天等领域。</p>
+    <ul>
+        <li><a href="https://www.sciencedirect.com/science/article/pii/S135964541200035X" target="_blank">镁合金数据规范</a></li>
+    </ul>
+
+    <h2>青铜合金</h2>
+    <p>青铜合金是一种古老的合金，具有良好的机械性能和耐腐蚀性，广泛应用于铸造、装饰等领域。</p>
+    <ul>
+        <li><a href="https://www.sciencedirect.com/science/article/pii/B9780128137975000017" target="_blank">青铜合金详细信息</a></li>
+    </ul>
+
+    <h2>特殊铜合金</h2>
+    <p>特殊铜合金具有独特的性能，广泛应用于电子、机械等领域。</p>
+    <ul>
+        <li><a href="https://www.daiwa-alloy.co.jp/" target="_blank">大和合金株式会社</a></li>
+    </ul>
+
+    <h2>Minecraft模组中的合金</h2>
+    <p>Minecraft中的模组也包含了许多合金材料，如下界合金、多彩合金等。</p>
+    <ul>
+        <li><a href="https://mc百科搜索.com/" target="_blank">Minecraft模组与整合包信息平台</a></li>
+    </ul>
+
+    <h2>HTML标签示例</h2>
+    <p>以下是一些常用的HTML标签及其用法示例。</p>
+    <table>
+        <thead>
+            <tr>
+                <th>标签</th>
+                <th>描述</th>
+                <th>示例</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>&lt;p&gt;</td>
+                <td>段落标签</td>
+                <td>&lt;p&gt;这是一个段落。&lt;/p&gt;</td>
+            </tr>
+            <tr>
+                <td>&lt;a&gt;</td>
+                <td>超链接标签</td>
+                <td>&lt;a href="https://www.example.com"&gt;访问示例网站&lt;/a&gt;</td>
+            </tr>
+            <tr>
+                <td>&lt;table&gt;</td>
+                <td>表格标签</td>
+                <td>&lt;table&gt;&lt;tr&gt;&lt;th&gt;表头&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;数据&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</td>
+            </tr>
+            <tr>
+                <td>&lt;img&gt;</td>
+                <td>图像标签</td>
+                <td>&lt;img src="image.jpg" alt="描述"&gt;</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <footer>
+        <p>版权所有 &copy; 2025 合金材料信息整合包</p>
+    </footer>
+</body>
+</html>
